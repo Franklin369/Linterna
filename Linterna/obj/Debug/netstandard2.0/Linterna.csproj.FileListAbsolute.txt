@@ -1,0 +1,16 @@
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\bin\Debug\netstandard2.0\Linterna.deps.json
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\bin\Debug\netstandard2.0\Linterna.dll
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\bin\Debug\netstandard2.0\ref\Linterna.dll
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\bin\Debug\netstandard2.0\Linterna.pdb
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.csproj.AssemblyReference.cache
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Vistas\linterna.xaml.g.cs
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.AssemblyInfoInputs.cache
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.AssemblyInfo.cs
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.csproj.CoreCompileInputs.cache
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.dll
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\ref\Linterna.dll
+E:\Proyectos Xamarin\Desafios\Hijos\Linterna\Linterna\obj\Debug\netstandard2.0\Linterna.pdb
