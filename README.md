@@ -1,7 +1,7 @@
 # **DESCRIPCIÓN DEL PROYECTO**
 ## Practica Flash, vibraciones y triggers en xamarin forms
 ###### RESUMEN DEL PROYECTO
-![](https://i.ibb.co/WBr1x8f/Demofisico.gif)
+![]( https://i.ibb.co/Xsg8RZq/portadafoco.png)
 
 # **Video tutorial:** [PASO A PASO](https://www.youtube.com/watch?v=RG4QOw5lQII&t=172s "PASO A PASO")
 - Aprende a crear mas proyectos asombrosos con xamarin forms en: [codigo369.com]( https://codigo369.com/ "codigo369.com")
@@ -16,3 +16,4 @@
 ###### Autor: Ing. Franklin J. Bustamante Alejandria
 ##### Pagina web: [codigo369.com](https://codigo369.com/ "codigo369.com")
 > # “CUALQUIERA PUEDE PROGRAMAR”
+
